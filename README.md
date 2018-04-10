@@ -1,2 +1,3 @@
 # tylerc.ml
-My personal website
+My personal website.
+If you are going to use it please give me credit thanks.
